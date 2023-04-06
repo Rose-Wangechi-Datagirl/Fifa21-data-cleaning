@@ -1,7 +1,7 @@
 ﻿--Cleaning Fifa21 data
 
 Select *
-from [Data Cleaning]..Sheet1$
+from [Data Cleaning]..Fifa21
 
 --Updating the Longname for consistency and neatness
 ALTER TABLE [Data Cleaning]..Fifa21

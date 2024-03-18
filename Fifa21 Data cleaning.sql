@@ -332,3 +332,5 @@ DROP COLUMN Height_in_cm
 
 Select *
 From [Data Cleaning]..Fifa21
+
+

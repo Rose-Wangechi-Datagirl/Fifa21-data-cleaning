@@ -18,7 +18,7 @@ It ensures that the insights o models generated are accurate and not influenced 
 - Spellings and value errors
 - Irrerevant data
 
-## steps taken during data cleaning
+## Steps taken during data cleaning
 - Update the Height and Weight column for consistencies
 - Update the Contract column delimiter, create new columns for contract status, Contract Start and End Year, and populate them with data from the Contract column for categorization and status purposes. As a result, we will have columns such as Contract Status, which will include those with active contracts, on loan players, and free agents, as well as Contract Start and End Year.
 - Adding a new column for loan status (not on loan, on loan, and free) rather than loan end date, while populating the Contract end year column with dates written in text at loan end date for loan players so we know which year loan contracts expire.

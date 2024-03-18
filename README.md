@@ -1,4 +1,4 @@
-## Insepecting and Wrangling the Fifa 21 Data using SQL
+## Inspecting and Wrangling the Fifa 21 Data using SQL
 
 <center>
     <img src="https://cdn.spaziogames.it/storage/wp/old-images/2020/06/fifa-21logo.jpg?width=898">

@@ -1,4 +1,4 @@
-## Insepcting and Wrangling the Fifa 21 Data using SQL
+## Insepecting and Wrangling the Fifa 21 Data using SQL
 
 <center>
     <img src="https://cdn.spaziogames.it/storage/wp/old-images/2020/06/fifa-21logo.jpg?width=898">
@@ -27,7 +27,8 @@ It ensures that the insights o models generated are accurate and not influenced 
 - Use player names at the player url column to update the long name. Check if there are duplicates, change column names accordingly for consistency and neatness.
 - Ensure all columns are put in the right data type format and drop all irrelevant columns.
 
-
+## Conclusion
+Cleaning the FIFA 21 data was a bit challenging. Despite the challenges encountered, the messy dataset was transformed into a state that renders it ready for use in analysis and any other future uses
 
 
 
